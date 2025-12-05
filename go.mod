@@ -13,7 +13,7 @@ require (
 	github.com/mattn/go-colorable v0.1.12
 	github.com/pkg/errors v0.9.1
 	github.com/segmentio/asm v1.1.3
-	github.com/sirupsen/logrus v1.8.1
+	github.com/sirupsen/logrus v1.8.3
 	github.com/stretchr/testify v1.7.1
 	github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
 	github.com/tidwall/gjson v1.14.0
@@ -48,7 +48,7 @@ require (
 	go.uber.org/atomic v1.9.0 // indirect
 	golang.org/x/net v0.0.0-20211123203042-d83791d6bcd9 // indirect
 	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c // indirect
-	golang.org/x/sys v0.0.0-20220111092808-5a964db01320 // indirect
+	golang.org/x/sys v0.0.0-20220715151400-c0bba94af5f8 // indirect
 	golang.org/x/text v0.3.7 // indirect
 	modernc.org/libc v1.8.1 // indirect
 	modernc.org/mathutil v1.2.2 // indirect
